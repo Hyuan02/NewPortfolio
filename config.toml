@@ -21,12 +21,24 @@ title = "Hyuan Farrapo"
   description = "Always developing challenging and immersive experiences."
   contact = "https://www.linkedin.com/in/hyuan-peixoto/"
 
-# [params.homepage.codepen]
-#   username = "apvarun"
-#   pens = ["MQaRKL", "RxodrP", "BmXGdm", "wdVypQ"]
+[params.homepage.codepen]
+  username = "apvarun"
+  pens = ["MQaRKL", "RxodrP", "BmXGdm", "wdVypQ"]
+
+[params.homepage.port]
+  items = [
+    {image = "/umbral.png", link = "https://drive.google.com/file/d/1xIZSRK64NGCJrW0oWjfPrkW-Jmlsn9-l/view?usp=sharing"},
+    {image = "/ghostly.png", link = "https://drive.google.com/file/d/1xIZSRK64NGCJrW0oWjfPrkW-Jmlsn9-l/view?usp=sharing"},
+    {image = "/speed.png", link = "https://drive.google.com/file/d/1xIZSRK64NGCJrW0oWjfPrkW-Jmlsn9-l/view?usp=sharing"},
+    {image = "/dragon.png", link = "https://drive.google.com/file/d/1xIZSRK64NGCJrW0oWjfPrkW-Jmlsn9-l/view?usp=sharing"},
+    {image = "/lerni.png", link = "https://drive.google.com/file/d/1xIZSRK64NGCJrW0oWjfPrkW-Jmlsn9-l/view?usp=sharing"},
+    {image = "/smd.png", link = "https://drive.google.com/file/d/1xIZSRK64NGCJrW0oWjfPrkW-Jmlsn9-l/view?usp=sharing"},
+    {image = "/rocket.png", link = "https://drive.google.com/file/d/1xIZSRK64NGCJrW0oWjfPrkW-Jmlsn9-l/view?usp=sharing"},
+    # {image = "/hakku.png", link = "https://drive.google.com/file/d/1xIZSRK64NGCJrW0oWjfPrkW-Jmlsn9-l/view?usp=sharing"}
+    ]
 
 [params.homepage.resume]
-  skills = ["Unity", "Angular", "C#", "Java", "TS/JS", "Css/Sass/Less", "Scrum", ]
+  skills = ["Unity", "Angular", "Phaser", "C#", "Java", "TS/JS", "Css/Sass/Less", "Scrum", ]
 
 [[params.homepage.resume.work]]
   name = "LE@D/DELL"
