@@ -27,7 +27,7 @@ title = "Hyuan Farrapo"
 
 [params.homepage.port]
   items = [
-    {image = "/umbral.png", link = "https://drive.google.com/file/d/1xIZSRK64NGCJrW0oWjfPrkW-Jmlsn9-l/view?usp=sharing"},
+    {image = "/umbral.png", link = "/blog/umbral"},
     {image = "/ghostly.png", link = "https://drive.google.com/file/d/1xIZSRK64NGCJrW0oWjfPrkW-Jmlsn9-l/view?usp=sharing"},
     {image = "/speed.png", link = "https://drive.google.com/file/d/1xIZSRK64NGCJrW0oWjfPrkW-Jmlsn9-l/view?usp=sharing"},
     {image = "/dragon.png", link = "https://drive.google.com/file/d/1xIZSRK64NGCJrW0oWjfPrkW-Jmlsn9-l/view?usp=sharing"},
