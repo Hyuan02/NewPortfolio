@@ -28,12 +28,12 @@ title = "Hyuan Farrapo"
 [params.homepage.port]
   items = [
     {image = "/umbral.png", link = "/blog/umbral"},
-    {image = "/ghostly.png", link = "https://drive.google.com/file/d/1xIZSRK64NGCJrW0oWjfPrkW-Jmlsn9-l/view?usp=sharing"},
-    {image = "/speed.png", link = "https://drive.google.com/file/d/1xIZSRK64NGCJrW0oWjfPrkW-Jmlsn9-l/view?usp=sharing"},
-    {image = "/dragon.png", link = "https://drive.google.com/file/d/1xIZSRK64NGCJrW0oWjfPrkW-Jmlsn9-l/view?usp=sharing"},
-    {image = "/lerni.png", link = "https://drive.google.com/file/d/1xIZSRK64NGCJrW0oWjfPrkW-Jmlsn9-l/view?usp=sharing"},
-    {image = "/smd.png", link = "https://drive.google.com/file/d/1xIZSRK64NGCJrW0oWjfPrkW-Jmlsn9-l/view?usp=sharing"},
-    {image = "/rocket.png", link = "https://drive.google.com/file/d/1xIZSRK64NGCJrW0oWjfPrkW-Jmlsn9-l/view?usp=sharing"},
+    {image = "/ghostly.png", link = "/blog/ghostly"},
+    {image = "/speed.png", link = "/blog/speed"},
+    {image = "/dragon.png", link = "/blog/dragon"},
+    {image = "/lerni.png", link = "/blog/lerni"},
+    {image = "/smd.png", link = "/blog/smd"},
+    {image = "/rocket.png", link = "/blog/rocket"},
     # {image = "/hakku.png", link = "https://drive.google.com/file/d/1xIZSRK64NGCJrW0oWjfPrkW-Jmlsn9-l/view?usp=sharing"}
     ]
 
